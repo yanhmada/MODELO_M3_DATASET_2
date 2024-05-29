@@ -12,3 +12,10 @@
 ### Parte II . <br>
 Mayo 2024.<br>
 
+Este repositorio contiene las libretas relacionadas a la segunda parte del proyecto  diseño y desarrollo de un pronosticador de  demanda de energía de la zona de gerencia de Noroeste de México.
+
+Se presentan:
+
+1.  Modelo SV: modelo sugerido para temporadas con estabilidad clim ́atica.
+2. Modelo ALL: modelo sugerido para temporadas con inestabilidad climática.
+3. Libreta de cálculo de error

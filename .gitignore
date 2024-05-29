@@ -37,6 +37,7 @@ Temporary Items
 *.tmp
 *.bak
 *.txt
+*.pdf
 
 .ipynb_checkpoints
 */.ipynb_checkpoints/*

@@ -16,6 +16,6 @@ Este repositorio contiene las libretas relacionadas a la segunda parte del proye
 
 Se presentan:
 
-1.  Modelo SV: modelo sugerido para temporadas con estabilidad clim ́atica.
+1.  Modelo CED: modelo sugerido para temporadas con estabilidad climática.
 2. Modelo ALL: modelo sugerido para temporadas con inestabilidad climática.
 3. Libreta de cálculo de error
